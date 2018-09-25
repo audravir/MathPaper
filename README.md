@@ -1,3 +1,5 @@
 # Paper 1: MathPaper
-### Author: 
+### Author
+my name
 ### Organization
+my university
